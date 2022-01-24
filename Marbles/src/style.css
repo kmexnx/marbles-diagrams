@@ -1,0 +1,24 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.marble {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 2rem;
+  background-color: #375574;
+  color: #FFF;
+  text-align: center;
+}
